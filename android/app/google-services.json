@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331916320784",
+    "project_id": "instgrmaclone",
+    "storage_bucket": "instgrmaclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331916320784:android:b3d515cdb2c2a55e2c2a95",
+        "android_client_info": {
+          "package_name": "com.example.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331916320784-sh34qmilalg4sir3natdm0u6ilt360ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFeHhi-rg15SS83Y73fFwDq-DdbtIflRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331916320784-sh34qmilalg4sir3natdm0u6ilt360ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
